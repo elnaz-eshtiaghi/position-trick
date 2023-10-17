@@ -4,7 +4,7 @@
 
 ![card position2](https://github.com/elnaz-eshtiaghi/trick.1/assets/146030206/13e75002-b428-430b-a173-45da4ffc6a60)
 
-- [Demo Project](https://elnaz-eshtiaghi.github.io/trick.1/)
+- [Demo Project](https://elnaz-eshtiaghi.github.io/trick.2/)
 
 - Developed by elnaz eshtiyaghi
 
